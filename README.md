@@ -1,4 +1,4 @@
-# Telegram Tabanlı Yapay Zeka Asistanı 🤖📨
+![Ekran görüntüsü 2025-06-02 154949](https://github.com/user-attachments/assets/3196f4fc-20ba-46fe-8a6e-934cb2d9877e)# Telegram Tabanlı Yapay Zeka Asistanı 🤖📨
 
 Bu proje, kullanıcıların Telegram üzerinden yazılı veya sesli komutlarla aşağıdaki işlemleri yapmasını sağlayan bir yapay zeka destekli asistandır:
 
@@ -30,3 +30,10 @@ Bu proje, kullanıcıların Telegram üzerinden yazılı veya sesli komutlarla a
 - [OpenAI API Docs](https://platform.openai.com/docs)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [Google Workspace APIs](https://developers.google.com)
+
+
+
+
+![Ekran görüntüsü 2025-06-02 154949](https://github.com/user-attachments/assets/9e29b32f-ec41-422f-b523-acabc4c98b76)
+![Ekran görüntüsü 2025-06-02 155003](https://github.com/user-attachments/assets/e2c0bbb3-a984-49bd-ae35-f4ca4f8176d2)
+![Ekran görüntüsü 2025-06-02 155030](https://github.com/user-attachments/assets/a32c82eb-f98e-4d35-8a3b-a55d53484d4d)
