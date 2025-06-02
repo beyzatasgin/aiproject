@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-06-02 154949](https://github.com/user-attachments/assets/3196f4fc-20ba-46fe-8a6e-934cb2d9877e)# Telegram Tabanlı Yapay Zeka Asistanı 🤖📨
+# Telegram Tabanlı Yapay Zeka Asistanı 🤖📨
 
 Bu proje, kullanıcıların Telegram üzerinden yazılı veya sesli komutlarla aşağıdaki işlemleri yapmasını sağlayan bir yapay zeka destekli asistandır:
 
